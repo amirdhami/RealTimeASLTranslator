@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>Photo on 8-27-21 at 9.21 AM #4.jpg</filename>
+	<path>/Users/amirdhami/Desktop/RealTimeObjectDetection/Tensorflow/workspace/images/collectedimages/Photo on 8-27-21 at 9.21 AM #4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1080</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>602</xmin>
+			<ymin>348</ymin>
+			<xmax>946</xmax>
+			<ymax>710</ymax>
+		</bndbox>
+	</object>
+</annotation>
