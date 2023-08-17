@@ -4,6 +4,12 @@
 
 RealTimeASLTranslator is a ML project that leverages the power of Tensorflow Object Detection API and CUDA Toolkit to create a real-time American Sign Language (ASL) hand symbol translator. This project enables the translation of ASL gestures into corresponding English words and letters during live video, making it a valuable tool for communication, especially in video conferencing scenarios.
 
+## Project Demo
+
+Check out a live demonstration of the RealTimeASLTranslator in action!
+
+[![Project Demo](https://img.youtube.com/vi/qPPTqYmnSp4/0.jpg)](https://www.youtube.com/watch?v=qPPTqYmnSp4)
+
 ## Key Features
 
 - **Real-Time Translation:** Utilize Tensorflow Object Detection API and CUDA Toolkit to achieve real-time translation of ASL hand symbols into English text.
